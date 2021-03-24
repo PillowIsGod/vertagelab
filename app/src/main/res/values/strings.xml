@@ -6,4 +6,5 @@
     <string name="email_enter">Please, enter your e-mail</string>
     <string name="password_enter">Please, enter your password</string>
     <string name="empty_fields_error">Please, fill in all the fields</string>
+    <string name="google_maps_key">AIzaSyA4I214u81W1uzqouuI2ZFwCeTbC79GiUI</string>
 </resources>
