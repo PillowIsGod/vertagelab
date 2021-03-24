@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">VertageLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">Log in</string>
+    <string name="email_enter">Please, enter your e-mail</string>
+    <string name="password_enter">Please, enter your password</string>
+    <string name="empty_fields_error">Please, fill in all the fields</string>
 </resources>
